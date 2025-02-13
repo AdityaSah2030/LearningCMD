@@ -146,12 +146,6 @@ Feel free to contribute additional CMD commands by submitting a pull request! �
 
 ---
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 📢 Acknowledgements
 
 Inspired by Windows Command Prompt power users and enthusiasts!
